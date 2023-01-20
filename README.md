@@ -1,5 +1,9 @@
 # Fstec finder on csv & postgresql
 
+
+https://user-images.githubusercontent.com/112577182/213696604-ee9a10e4-d435-42bc-bcfb-65a587a66909.mp4
+
+
 1. [Vers. WITH POSTGRESQL]
 - Обновлённая версия, так как база уязвимостей имеет более 40 тысяч записей, то решил, использовать PostgreSQL
 ![изображение](https://user-images.githubusercontent.com/112577182/213695142-2b35ee6d-df69-449b-8936-a056ae6b6d89.png)
