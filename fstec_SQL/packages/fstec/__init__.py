@@ -61,7 +61,7 @@ class SearchFstec:
 
     def createTable_fstec(self, justify, fstec_sql):
         for key in fstec_sql:
-            self.table.add_column(key, no_wrap=True, justify=justify, width=10)
+            self.table.add_column(key, no_wrap=True, justify=justify, width=20)
         return self.table
 
     def resetTable(self):
