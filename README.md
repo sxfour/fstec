@@ -1,6 +1,14 @@
 # Fstec finder on csv & postgresql
 
-[Vers. WITHOUT SQL DATABASE]
+1. [Vers. WITH POSTGRESQL]
+- Обновлённая версия, так как база уязвимостей имеет более 40 тысяч записей, то решил, использовать PostgreSQL
+
+
+
+
+
+
+2. [Vers. WITHOUT SQL DATABASE]
 
 - Поиск уязвимостей по csv данным fstec, используя ключевое слово для поиска, например CVE уязвимости
 
