@@ -1,4 +1,4 @@
-# fstec_parser
+# Fstec finder on csv & postgresql
 Поиск уязвимостей по fstec
 
 [TEST VERSION]
