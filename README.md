@@ -9,8 +9,10 @@
 Создание и настройка базы проводились на Windows 10 x64, с помощью pgAdmin, PostgreSQL 15.
 Дополню позже.
 
+
 - Вариант 2 import backup.
 Импортируем готовый backup базы
+
 ![изображение](https://user-images.githubusercontent.com/112577182/213687761-3d16d62b-8c86-47d6-8b6b-354eb08c5e3e.png)
 
 
