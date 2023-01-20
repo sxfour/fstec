@@ -18,7 +18,17 @@
 ![изображение](https://user-images.githubusercontent.com/112577182/213687761-3d16d62b-8c86-47d6-8b6b-354eb08c5e3e.png)
 
 
+postgresql/database.ini, Указываете вашу базу данных и остальные настройки, если меняли дефолт порт при установке PostgreSQL, обязательно вписываем в .ini
 
+![изображение](https://user-images.githubusercontent.com/112577182/213695810-cf3a1a6d-6d23-46fa-a36b-1c8a316f287c.png)
+
+
+Запускаем головной __init__.py из packages
+
+![изображение](https://user-images.githubusercontent.com/112577182/213696092-b170ad0c-7e1f-4e95-9212-dcd2f9a9364f.png)
+
+
+![изображение](https://user-images.githubusercontent.com/112577182/213696119-f0f4c0d8-4ec4-4bcc-ae9b-19c7eee2738c.png)
 
 
 
