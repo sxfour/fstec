@@ -1,5 +1,4 @@
 # Fstec finder on csv & postgresql
-Поиск уязвимостей по fstec
 
 [Vers. WITHOUT SQL DATABASE]
 
