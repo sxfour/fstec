@@ -1,7 +1,7 @@
 # Fstec finder on csv & postgresql
 Поиск уязвимостей по fstec
 
-[TEST VERSION]
+[Vers. WITHOUT SQL DATABASE]
 
 - Поиск уязвимостей по csv данным fstec, используя ключевое слово для поиска, например CVE уязвимости
 
